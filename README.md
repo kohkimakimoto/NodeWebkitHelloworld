@@ -21,7 +21,7 @@ npm install
 grunt
 ```
 
-See the `build/NodeWebkitHelloWorld/` directroy. You will find executable package for osx and windows.
+See the `build/NodeWebkitHelloWorld/` directroy. You will find executable packages for osx and windows.
 
 ## See also
 
