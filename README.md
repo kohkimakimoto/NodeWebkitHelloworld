@@ -2,7 +2,10 @@
 
 ## Just runs app on cli
 
+
 Runs the following command in the project root directory.
+
+Note: You have to install [node-webkit](https://github.com/rogerwang/node-webkit) before running the app.
 
 ```
 node-webkit .
