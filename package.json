@@ -1,15 +1,15 @@
 {
-  "name": "NodeWebkitHelloWorld",
-  "version": "0.1.0",
-  "description": "Hello World Demo",
+  "name": "NodeWebkitHelloworld",
+  "version": "1.0.0",
+  "description": "## Just runs app on cli",
   "main": "src/index.html",
   "window": {
-    "toolbar": false,
-    "width": 500,
-    "height": 200
+      "toolbar": true,
+      "frame": true,
+      "position": "mouse"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-node-webkit-builder": "^0.3.0"
+    "grunt-node-webkit-builder": "^1.0.0"
   }
 }
