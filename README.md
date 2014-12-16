@@ -18,7 +18,7 @@ Runs the following command in the project root directory.
 ```
 npm install -g grunt-cli
 npm install
-grunt
+grunt build
 ```
 
 See the `build/NodeWebkitHelloWorld/` directroy. You will find executable packages for osx and windows.
