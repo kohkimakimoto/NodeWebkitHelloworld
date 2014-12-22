@@ -4,12 +4,13 @@
   "description": "## Just runs app on cli",
   "main": "src/index.html",
   "window": {
-      "toolbar": true,
-      "frame": true,
-      "position": "mouse"
+    "toolbar": true,
+    "frame": true,
+    "position": "mouse"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
     "grunt-node-webkit-builder": "^1.0.0"
   }
 }
